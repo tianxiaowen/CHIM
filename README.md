@@ -1,2 +1,2 @@
 # CHIM
-R package for snalysis of CHIM studies
+R package for analysis of CHIM studies
